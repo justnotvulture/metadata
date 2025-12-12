@@ -1,9 +1,16 @@
 {
   "rclone-v1.72.0-linux-amd64.zip": {
-    "size": 0,
+    "size": 27067298,
     "content_type": "application/octet-stream",
-    "chunks": [],
-    "uploaded_at": 1765550960,
+    "chunks": [
+      {
+        "name": "rclone-v1.72.0-linux-amd64.zip.part0000",
+        "size": 27067298,
+        "download_url": "https://github.com/justnotvulture/metadata/releases/download/webdav-chunks/rclone-v1.72.0-linux-amd64.zip.part0000",
+        "asset_id": 327878467
+      }
+    ],
+    "uploaded_at": 1765551006,
     "release_tag": "webdav-chunks"
   }
 }
