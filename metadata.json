@@ -26,5 +26,19 @@
     ],
     "uploaded_at": 1765554344,
     "release_tag": "webdav-chunks"
+  },
+  "2025-03-25_18-26.png": {
+    "size": 241523,
+    "content_type": "image/png",
+    "chunks": [
+      {
+        "name": "2025-03-25_18-26.png.part0000",
+        "size": 241523,
+        "download_url": "https://github.com/justnotvulture/metadata/releases/download/webdav-chunks/2025-03-25_18-26.png.part0000",
+        "asset_id": 327901967
+      }
+    ],
+    "uploaded_at": 1765555507,
+    "release_tag": "webdav-chunks"
   }
 }
