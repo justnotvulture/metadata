@@ -12,5 +12,12 @@
     ],
     "uploaded_at": 1765551006,
     "release_tag": "webdav-chunks"
+  },
+  ".Trash-1000/info/rclone-v1.72.0-linux-amd64.zip.trashinfo": {
+    "size": 0,
+    "content_type": "application/octet-stream",
+    "chunks": [],
+    "uploaded_at": 1765551139,
+    "release_tag": "webdav-chunks"
   }
 }
