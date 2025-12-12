@@ -12,5 +12,19 @@
     ],
     "uploaded_at": 1765551569,
     "release_tag": "webdav-chunks"
+  },
+  "figma-linux_0.11.5_linux_x86_64.AppImage": {
+    "size": 109019273,
+    "content_type": "text/xml;charset=UTF-8",
+    "chunks": [
+      {
+        "name": "figma-linux_0.11.5_linux_x86_64.AppImage.part0000",
+        "size": 109019273,
+        "download_url": "https://github.com/justnotvulture/metadata/releases/download/webdav-chunks/figma-linux_0.11.5_linux_x86_64.AppImage.part0000",
+        "asset_id": 327882932
+      }
+    ],
+    "uploaded_at": 1765552587,
+    "release_tag": "webdav-chunks"
   }
 }
