@@ -1,0 +1,16 @@
+{
+  "Software/qView/qView-4.0-x86_64.AppImage": {
+    "size": 38694952,
+    "content_type": "application/vnd.appimage",
+    "chunks": [
+      {
+        "name": "Software/qView/qView-4.0-x86_64.AppImage.part0000",
+        "size": 38694952,
+        "download_url": "https://github.com/justnotvulture/metadata/releases/download/webdav-chunks/Software.qView.qView-4.0-x86_64.AppImage.part0000",
+        "asset_id": 327880349
+      }
+    ],
+    "uploaded_at": 1765551569,
+    "release_tag": "webdav-chunks"
+  }
+}
